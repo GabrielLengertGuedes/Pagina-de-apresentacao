@@ -131,27 +131,22 @@ body{
     color: var(--cor-hover2);
 }
 
-@media (max-width: 1200px) {
-    .cabecalho {
+@media (max-width: 1200px){
+    .cabecalho{
         padding: 5% 5%;
     }
 
-    .cabecalho__menu {
-        flex-direction: center;
-        align-items: center;
+    .cabecalho__menu{
+        justify-content: center;
         gap: 15px;
     }
 
-    .cabecalho__menu__link {
-        font-size: 1.2rem;
-    }
-
-    .apresentacao {
+    .apresentacao{
         flex-direction: column-reverse;
         padding: 5%;
     }
 
-    .apresentacao__conteudo {
+    .apresentacao__conteudo{
         width: auto;
     }
 }
