@@ -1,4 +1,4 @@
-# Pagina de Apresentacao
+# Página de Apresentação
 
 Projeto de portfólio pessoal desenvolvido com **HTML e CSS**, com o objetivo de apresentar informações profissionais, páginas de navegação e links para redes sociais.
 
