@@ -71,5 +71,7 @@ cd Pagina-de-apresentacao
 ## Autor
 
 Gabriel Lengert Guedes
+
 GitHub: https://github.com/GabrielLengertGuedes
+
 LinkedIn: https://www.linkedin.com/in/gabriel-guedes-a2b597325/
